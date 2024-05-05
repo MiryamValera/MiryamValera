@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/idLYmyWQI07I8dje74/giphy.gif?cid=ecf05e47kalehrgn9k6asvz5qrtj98eac7qo227ueonq8g4v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300"/> 
 
-# ¡Hola a todos! ✨Bienvenid@s a mi repositorio de GitHub✨<h3>***QA Engineer*** apasionada por la automatización de pruebas y la integración continua.</h3>
+# ¡Hola a todos! Bienvenid@s a mi repositorio de GitHub🐞 <h3>***QA Engineer*** apasionada por la automatización de pruebas y la integración continua.</h3>
 
   ![my banner](banner-miryamvalera-github.png)  
 
