@@ -1,6 +1,6 @@
 ![my banner](banner-miryamvalera-github.png)
 
-# ¡Hola a todos! Bienvenid@s a mi repositorio de GitHub👋✨ <h3>***QA Engineer*** apasionada por la automatización de pruebas y la integración continua.</h3>
+# Hola, soy Miri. ¡Encantada de conocerte!👋✨ <h3>***QA Engineer*** apasionada por la automatización de pruebas y la integración continua.</h3>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-valera-zurita)
 
 ### Tecnologías 💻
