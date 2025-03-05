@@ -1,6 +1,7 @@
 ![my banner](banner_QA.png) 
-## Hola, soy Miryam¡Encantada de conocerte!👋✨
- <h3>QA Engineer apasionada por la automatización de pruebas y la integración continua(CI/CD).</h3>
+
+## Hello, world! 🌎 I'm Miryam, a QA Engineer on a mission to enhance software quality while continuously learning and growing. Let's build better technology together!👋✨
+ <h3></h3>
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-valera-zurita)
 
