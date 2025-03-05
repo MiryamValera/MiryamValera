@@ -3,7 +3,7 @@
 ## Hello, world! 🌎 I'm Miryam, a QA Engineer on a mission to enhance software quality while continuously learning and growing. Let's build better technology together!👋✨
  <h3></h3>
  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-valera-zurita)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miryamvalera-qatesting)
 
 ### Tecnologías 💻
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
