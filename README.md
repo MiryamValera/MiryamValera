@@ -1,4 +1,4 @@
-![my banner](banner-miryamvalera-github.png)
+![my banner](banner_QA.png) 
 # Hola, soy Miryam. ¡Encantada de conocerte!👋✨
  <h3>QA Engineer apasionada por la automatización de pruebas y la integración continua(CI/CD).</h3>
  
